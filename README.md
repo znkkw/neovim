@@ -8,7 +8,7 @@ To install your Neovim configuration, you can follow these steps:
 git clone https://github.com/znkkw/neovim ~/.config/nvim
 ```
 
-2. Make sure you have the required tools and dependencies installed using `yay`:
+2. Make sure you have the required tools and dependencies installed using `paru`:
 
 ```bash
 paru -S --needed \
